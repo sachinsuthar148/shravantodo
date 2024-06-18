@@ -182,17 +182,3 @@
       }
     }
     ```
-
-## Error Handling
-
-All endpoints return a 4xx or 5xx status code with an error message if an error occurs.
-
-## Postman Collection
-
-You can use the provided Postman collection to test the API endpoints. Import the collection into Postman using the link below:
-
-[Download Postman Collection](link_to_your_postman_collection)
-
----
-
-By following this README, you should be able to set up, configure, and test all the API endpoints of your Todo backend application.
